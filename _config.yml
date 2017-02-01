@@ -17,8 +17,7 @@ github_username:  di-y
 linkedin_link: https://in.linkedin.com/in/dinayerlan
 
 # Footer
-footer_right: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://www.linkedin.com/in/dinayerlan\">Dina Yerlan</a>"
-footer_left: "&lt;/&gt; on <a href=\"https://github.com/di-y\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "Made by <a href=\""https://github.com/di-y\">Dina Yerlan</a>"
 
 
 # Build settings
