@@ -9,13 +9,13 @@ title_image: "https://static-videos.pexels.com/images/video-pictures/1/preview-4
 google_analytics: "UA-66023783-1"
 disqus_account: di-ygithubio
 github_repository: https://github.com/di-y/di-y.github.io
-post_limit: 4
+post_limit: 100
 
 # Social usernames/URLs
 twitter_username: di-y
 github_username:  di-y
 linkedin_link: https://in.linkedin.com/in/dinayerlan
-
+future:true;
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://github.com/di-y/di-y.github.io\">Dina Yerlan</a>"
