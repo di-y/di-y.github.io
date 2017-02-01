@@ -15,7 +15,6 @@ post_limit: 100
 twitter_username: di-y
 github_username:  di-y
 linkedin_link: https://in.linkedin.com/in/dinayerlan
-future:true;
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://github.com/di-y/di-y.github.io\">Dina Yerlan</a>"
